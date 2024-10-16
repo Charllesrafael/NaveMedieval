@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dfe7c3ab283f324a90322649d9ad73c, type: 3}
+  m_Name: ListaArmas
+  m_EditorClassIdentifier: 
+  armas:
+  - {fileID: 2879505602911877847, guid: 3ca77780602611342a2d53bc56cd4371, type: 3}
+  - {fileID: 4465145150339389374, guid: f6db8b40317bb4c44bed030700c9a932, type: 3}
+  - {fileID: 861308793987212322, guid: a259a4b862e3a44488f7908f105847ec, type: 3}
+  - {fileID: 2273810258573622903, guid: 3c221bb3ab3ff864aaf0cbc020a524a6, type: 3}
+  - {fileID: 2879505602911877847, guid: a5c103d98c7656b4bbde086a50481907, type: 3}
+  - {fileID: 6222029199004132310, guid: d497a467ca1f1ba4eb18e337b96a87bd, type: 3}
+  - {fileID: 2879505602911877847, guid: 1fb3c7faba6ba6c4cb2779e86cfb3cbc, type: 3}
+  - {fileID: 2879505602911877847, guid: 27e3bb70e783c0c45bc4c1e2c879c6ee, type: 3}

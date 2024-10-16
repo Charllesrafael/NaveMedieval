@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2606278c9b6f03f41a8f91a1b784f4b6, type: 3}
+  m_Name: Orange Barrage
+  m_EditorClassIdentifier: 
+  Unlocked: 1
+  achievementConditionSettings: {fileID: 11400000, guid: c18d98f3e680cdf4b8fd26d34ba38674, type: 2}
+  nome: Orange Barrage
+  idLocalizacaoAchievementDesbloqueiado: OrangebarrageAchievement
+  _textoAchievementDesbloqueiado: Orange Barrage unlocked.
+  armaId: 6
+  navePrefab: {fileID: 656607915542465822, guid: 274869754ad4e5c44bb0bbde18365565, type: 3}
+  infoData:
+    idLocalizacao: Orangebarrage
+    idLocalizacaoUnlock: OrangebarrageUnlock
+    ComoDesbloquear: '<color="yellow">Condition</color>:
+
+      Finish stage 3 with
+      Purple Needle.
+
+'
+    _Descricao: "<color=\"yellow\">Gun</color>:\r\nMissile Cannon\r.\n<color=\"yellow\">Drone</color>:\r\nMissile
+      Barrage."

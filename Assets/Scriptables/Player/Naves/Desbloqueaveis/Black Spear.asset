@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2606278c9b6f03f41a8f91a1b784f4b6, type: 3}
+  m_Name: Black Spear
+  m_EditorClassIdentifier: 
+  Unlocked: 1
+  achievementConditionSettings: {fileID: 11400000, guid: c53a601b11777fe49b2a67dd7c00c0ce, type: 2}
+  nome: Black Spear
+  idLocalizacaoAchievementDesbloqueiado: BlackspearAchievement
+  _textoAchievementDesbloqueiado: Black Spear unlocked.
+  armaId: 5
+  navePrefab: {fileID: 656607915542465822, guid: 752ec3c66ae5f324d9e243bf598f9ff1, type: 3}
+  infoData:
+    idLocalizacao: Blackspear
+    idLocalizacaoUnlock: BlackspearUnlock
+    ComoDesbloquear: '<color="yellow">Condition</color>:
+
+      Finish any stage
+      unharmed and without drones.
+
+'
+    _Descricao: '<color="yellow">Gun</color>:
+
+      Spread Laser
+
+      <color="yellow">Drone</color>:
+
+      Triple
+      laser
+
+      <color="yellow">Extra</color>:
+
+      Your ship has only one life.'

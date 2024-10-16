@@ -1,0 +1,110 @@
+﻿Title,"Ola! 
+Português"
+Start,"Jogar"
+Tutorial,"Tutorial"
+Leaderboard,"Classificação"
+Options,"Opções"
+Credits,"Creditos"
+Exit,"Sair"
+Music,"Música"
+Effect,"Efeitos"
+ON,"Ligado"
+OFF,"Desligado"
+Language,"Idioma"
+Vibration,"Vibração"
+Back,"Voltar"
+Programmer,"Programador"
+Designer,"Game designer & artista tecnico"
+Manager,"Gerente de projeto & Lider tecnico"
+Musicby,"Música por"
+Play,"Jogar"
+Mission,"Missão completa"
+Score,"Pontuação"
+Nodamage,"Ileso"
+Nodrone,"Sem drone"
+Continue,"Continuar?"
+Defeat,"Derrota"
+Name,"Nome"
+Pause,"Pausa"
+Resume,"Retornar"
+Restart,"Recomeçar"
+Move,"Mover"
+Shoot,"Atirar"
+Intro_0,"No ano 200X depois de findada a construção da base de lançamento lunar sua primeira missão a Marte foi lançada porém interrompida quando os tripulantes encontraram um objeto não identificado com assinaturas absurdas de emissão de energia. A missão então se tornou recuperar o objeto e retorná-lo de forma segura para a base lunar onde seria constatado se seria seguro levá-lo para os laboratórios na Terra."
+Intro_1,"Depois de vários meses de pesquisa, os cientistas se deparam com leituras completamente inimagináveis, uma espécie de nave, maior do que qualquer objeto já registrado, estava em curso para a posição do objeto. Não era apenas um recurso, era um localizador."
+Intro_2,"Toda pesquisa foi imediatamente enviada para a Terra e com o tempo que tínhamos quatro protótipos de caças de oitava geração com capacidade de absorção de energia alienígena foram construídos e os melhores pilotos designados, talvez essa seja nossa única esperança."
+Skip,"Pular"
+End,"Após todos os esforços das forças terrestres e de um bravo piloto, as forças inimigas foram derrotadas e recuaram. Muitas vidas foram perdidas e muitas cidades destruídas, mas a Terra está salva… Por enquanto."
+Fase1_0,"Controle: Controle para Cobra 1, em posição?"
+Fase1_1,"Piloto: Cobra 1 para controle, estou em posição, sem contato visual."
+Fase1_2,"Controle: Afirmativo Cobra 1, o sinal inimigo foi detectado à frente, seu objetivo é localização e interceptação. Espere resistência."
+Fase1_3,"Piloto: Afirmativo, Cobra 1 desligando."
+Fase1_4,"Controle: Boa sorte soldado, Controle desligando."
+Fase2_0,"Controle: Bom trabalho soldado, sua próxima missão é seguir para o norte em direção a X City, localizar o alvo e eliminar qualquer ameaça aos civis."
+Fase2_1,"Piloto: Entendido ajustando curso."
+Fase2_2,"Controle: Cobra 1 interceptamos um sinal alguns quilômetros à frente, a assinatura está instável, parece estar submerso. Descubra o que é e intercepte antes que alcance nossa força naval."
+Fase2_3,"Piloto: Entendido, Cobra 1 desligando."
+Fase3_0,"Piloto: Cobra 1 para controle, estou me aproximando das coordenadas tenho contato visual com batedores inimigos, sem sinal de civis."
+Fase3_1,"Controle: Entendido Cobra 1, os civis foram evacuados para os bunkers de emergência. Prossiga  a missão, precisamos criar um perímetro seguro para a evacuação total da cidade."
+Fase3_2,"Piloto: Entendido, vamos limpar essa cidade."
+Fase4_0,"Controle: Bom trabalho soldado, a cidade está segura e a evacuação já está em progresso."
+Fase4_1,"Piloto: Feliz em poder ajudar controle."
+Fase4_2,"Controle: Vamos deixar as comemorações para depois soldado, captamos um sinal subterrâneo se movendo na área rural, parece estar seguindo para a estação de lançamento. Localize e intercepte."
+Fase4_3,"Piloto: Entendido controle, guarde meu champagne. Cobra 1 desligando."
+Fase5_0,"Controle: Controle para Cobra 1 responda."
+Fase5_1,"Piloto: Cobra 1 na escuta controle."
+Fase5_2,"Controle: A estação de comando invasora está se aproximando a órbita baixa, essa é nossa melhor chance de atacar e acabar com isso. Esse é seu último alvo soldado, boa sorte."
+Fase5_3,"Piloto: Entendido controle, ativando sistemas orbitais. Vamos cuidar do jardim."
+Redflash,"<color="yellow">Arma</color>:
+Metralhadora pesada
+<color="yellow">Drone</color>:
+Bomba inteligente"
+Bluesting,"<color="yellow">Arma</color>:
+Raio laser
+<color="yellow">Drone</color>:
+Hiper laser"
+Greendragon,"<color="yellow">Arma</color>:
+Canhão de espalhamento
+<color="yellow">Drone</color>:
+Ricochete tornado"
+Yellowwasp,"<color="yellow">Arma</color>:
+Canhão de Fase
+<color="yellow">Drone</color>:
+Escudo pesado"
+Whiteprism,"<color="yellow">Arma</color>:
+Aleatório.
+<color="yellow">Drone</color>:
+Aleatório.
+<color="yellow">Extra</color>:
+Power ups trocam seus tiros."
+Unloked,"Desbloqueada"
+WhiteprismUnlock,"<color="yellow">Condições</color>:
+Termine o jogo com qualquer nave."
+PurpleneedleUnlock,"<color="yellow">Condições</color>:
+Fazer 40000 pontuação durante o jogo."
+PinkbubbleUnlock,"<color="yellow">Condições</color>:
+Terminar fase 2 com White Prism."
+OrangebarrageUnlock,"<color="yellow">Condições</color>:
+Terminar fase 3 com Purple Needle."
+BlackspearUnlock,"<color="yellow">Condições</color>:
+Terminar qualquer fase ileso e sem drones."
+Purpleneedle,"<color="yellow">Arma</color>:
+Canhão de agulhas.
+<color="yellow">Drone</color>:
+Lazer orbital.
+<color="yellow">Extra</color>:
+Power ups são letais"
+Blackspear,"<color="yellow">Arma</color>:
+Lazer de espalhamento.
+<color="yellow">Drone</color>:
+Lazer triplo.
+<color="yellow">Extra</color>:
+Sua nave tem apenas uma vida."
+Orangebarrage,"<color="yellow">Arma</color>:
+Canhão de mísseis.
+<color="yellow">Drone</color>:
+Barragem de mísseis."
+Pinkbubble,"<color="yellow">Arma</color>:
+Bolhas ricochete.
+<color="yellow">Drone</color>:
+Avalanche de bolhas."

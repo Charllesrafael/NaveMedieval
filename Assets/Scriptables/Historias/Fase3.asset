@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4593c4f5b88b8374eb6a4b4e97b3bf10, type: 3}
+  m_Name: Fase3
+  m_EditorClassIdentifier: 
+  textos:
+  - icone: {fileID: 21300000, guid: 89cb7581528d0874da0931e5e623f63d, type: 3}
+    texto: 'Pilot: Cobra 1 to control, approaching the coordinates, have visual contact
+      with enemy scouts, no sign of civilians.'
+  - icone: {fileID: 21300000, guid: 702deba253090fe499e6e0cba7e81c29, type: 3}
+    texto: 'Control: Understood, Cobra 1. Civilians have been evacuated to emergency
+      bunkers. Proceed with the mission, we need to establish a safe perimeter for
+      the city evacuation.'
+  - icone: {fileID: 21300000, guid: 89cb7581528d0874da0931e5e623f63d, type: 3}
+    texto: 'Pilot: Understood, let''s clear this city.'

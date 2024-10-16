@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e4b6f597d2f24a4ba1b14d759344209, type: 3}
+  m_Name: SpawnerModelBaseStage4 1
+  m_EditorClassIdentifier: 
+  waves:
+  - Delay: 3
+    waveData: {fileID: 11400000, guid: 5f8ac786b60a3f2499c46ef9e941f105, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 4c9a32c5029f2b24a817b0e203c7652e, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 4dc7e1f22fbb2ae409e3761aca52fe73, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 4
+    waveData: {fileID: 11400000, guid: 81482cf1bfe4ad9428d923dd469887fa, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 1
+    waveData: {fileID: 11400000, guid: 8b29094c266f7fc469453b6e3c1b43c7, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 1
+    waveData: {fileID: 11400000, guid: 900264110e919bf42b18a19517a743bd, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 4dc7e1f22fbb2ae409e3761aca52fe73, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 1
+    waveData: {fileID: 11400000, guid: f9c93b128fb1d12478abb4eda4737437, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 668dc3e57a2be294f952b1bb7e8ca992, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 828d84d6d2bda924296f28197bf5b7cc, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: a7f0423f4257e1d4985acc409724e8f4, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 920e4bcc5ae076a4d95dbd13240b7b5f, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 5
+    waveData: {fileID: 11400000, guid: fa5801ab0bb4c5e459c4451ec0ef29f3, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 5
+    waveData: {fileID: 11400000, guid: f9c93b128fb1d12478abb4eda4737437, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 2
+    waveData: {fileID: 11400000, guid: 4dc7e1f22fbb2ae409e3761aca52fe73, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 6
+    waveData: {fileID: 11400000, guid: 43da44caba575d7489619c6ccdcceb2b, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 2
+    waveData: {fileID: 11400000, guid: bb7aea45ebfbd21468bfac333beb043d, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 5
+    waveData: {fileID: 11400000, guid: 6f3726ade779cac4cb4a3d039b3778a9, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 686d1fc0ffa70bb418b081b7cd59b3d1, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: f9c93b128fb1d12478abb4eda4737437, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 4dc7e1f22fbb2ae409e3761aca52fe73, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 181a9664f4bcc704e94251d3eaa7a2c9, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 7
+    waveData: {fileID: 11400000, guid: b87dfbeab8ae92340b41406477bbda46, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 2
+    waveData: {fileID: 11400000, guid: 43da44caba575d7489619c6ccdcceb2b, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 1
+    waveData: {fileID: 11400000, guid: 32cde418cd008864190d02d4ac3d3cfc, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 5
+    waveData: {fileID: 0}
+    waveStruct:
+      dadosInimigos:
+      - PrefabPathModel: {fileID: 0}
+        _Prefab: {fileID: 2332790623761575887, guid: eb49dd636e98d5a4399824f402249579, type: 3}
+        path: 0
+        Delay: 0

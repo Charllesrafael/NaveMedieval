@@ -1,0 +1,978 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3608292782744072443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7540585172636978225}
+  m_Layer: 0
+  m_Name: CanionRiverOpenModule
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7540585172636978225
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3608292782744072443}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -52.1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1667725078436232415}
+  - {fileID: 7573493509061268796}
+  - {fileID: 1603733868830532101}
+  - {fileID: 1199857940986139630}
+  - {fileID: 7793009425794249920}
+  - {fileID: 8822748222095173507}
+  - {fileID: 4692830034078659038}
+  - {fileID: 6655266242113234902}
+  - {fileID: 5954406760945765742}
+  - {fileID: 9196145015160474446}
+  - {fileID: 2609566359227345410}
+  - {fileID: 6064658827011958990}
+  - {fileID: 7319756853646133877}
+  - {fileID: 5085086960357724942}
+  - {fileID: 854455020748701456}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &858003148762946385
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -33.452385
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &5085086960357724942 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 858003148762946385}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &889934790192773505
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.72619
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &4692830034078659038 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 889934790192773505}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1235577934144057225
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.726185
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &6655266242113234902 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 1235577934144057225}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1823986321996472465
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.45238
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &6064658827011958990 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 1823986321996472465}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2295617078031418673
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.726189
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &5954406760945765742 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 2295617078031418673}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2404836713945234591
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16.726196
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &7793009425794249920 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 2404836713945234591}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2622100825990471011
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.000005722046
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &7573493509061268796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 2622100825990471011}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2948985727141429802
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.452377
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &7319756853646133877 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 2948985727141429802}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3667799113533473553
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -33.452385
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &9196145015160474446 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 3667799113533473553}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3965793530240593884
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &8822748222095173507 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 3965793530240593884}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5089706013242636111
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.45238
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &854455020748701456 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 5089706013242636111}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6511384722777240704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &1667725078436232415 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 6511384722777240704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6573141660087183962
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &1603733868830532101 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 6573141660087183962}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6764167530208582577
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16.72619
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &1199857940986139630 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 6764167530208582577}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7588262115043402333
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7540585172636978225}
+    m_Modifications:
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -33.452393
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000019073486
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16.726192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720118110222279877, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+      propertyPath: m_Name
+      value: CanionWater (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+--- !u!4 &2609566359227345410 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5582747163348781151, guid: cfb67ca7c48848d438f4bfff01bdaebd, type: 3}
+  m_PrefabInstance: {fileID: 7588262115043402333}
+  m_PrefabAsset: {fileID: 0}

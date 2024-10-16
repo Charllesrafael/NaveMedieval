@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2606278c9b6f03f41a8f91a1b784f4b6, type: 3}
+  m_Name: Purple Needle
+  m_EditorClassIdentifier: 
+  Unlocked: 1
+  achievementConditionSettings: {fileID: 11400000, guid: 566f07c507a3d304985bf5491a90d926, type: 2}
+  nome: Purple Needle
+  idLocalizacaoAchievementDesbloqueiado: PurpleneedleAchievement
+  _textoAchievementDesbloqueiado: Purple Needle unlocked.
+  armaId: 4
+  navePrefab: {fileID: 3283724472409083718, guid: dd1e7435f845899438b3b1c354151fe3, type: 3}
+  infoData:
+    idLocalizacao: Purpleneedle
+    idLocalizacaoUnlock: PurpleneedleUnlock
+    ComoDesbloquear: '<color="yellow">Condition</color>:
+
+      Make 40000 score
+      while playing the game.'
+    _Descricao: '<color="yellow">Gun</color>:
+
+      Needle cannon.
+
+      <color="yellow">Drone</color>:
+
+      Orbital
+      lazer.
+
+      <color="yellow">Extra</color>:
+
+      Power ups are lethal.'

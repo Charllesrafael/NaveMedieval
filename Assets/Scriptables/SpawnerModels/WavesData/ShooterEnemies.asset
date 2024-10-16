@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9938172d9657736438385fc81e60ddc6, type: 3}
+  m_Name: ShooterEnemies
+  m_EditorClassIdentifier: 
+  dadosInimigos:
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 6
+    Delay: 0
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 6
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 6
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 6
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 6
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 7
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 7
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 7
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 7
+    Delay: 0.6
+  - Prefab: {fileID: 262856905600700776, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    _Prefab: {fileID: 2082419468386269137, guid: 734b5d3c57bbd1b40a9620154bb4a8ef, type: 3}
+    path: 7
+    Delay: 0.6

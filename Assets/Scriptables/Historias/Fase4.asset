@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4593c4f5b88b8374eb6a4b4e97b3bf10, type: 3}
+  m_Name: Fase4
+  m_EditorClassIdentifier: 
+  textos:
+  - icone: {fileID: 21300000, guid: 702deba253090fe499e6e0cba7e81c29, type: 3}
+    texto: 'Control: Good job, soldier. The city is safe, and the evacuation is already
+      in progress.'
+  - icone: {fileID: 21300000, guid: 89cb7581528d0874da0931e5e623f63d, type: 3}
+    texto: 'Pilot: Glad to be of service, control.'
+  - icone: {fileID: 21300000, guid: 702deba253090fe499e6e0cba7e81c29, type: 3}
+    texto: 'Control: Let''s save the celebrations for later, soldier. We''ve picked
+      up an underground signal moving in the rural area, seems to be heading towards
+      the launch station. Locate and intercept it.'
+  - icone: {fileID: 21300000, guid: 89cb7581528d0874da0931e5e623f63d, type: 3}
+    texto: 'Pilot: Understood, control. Keep my bottle on hold. Cobra 1 out.'

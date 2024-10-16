@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af394c2b3bb2007479ec7f007d78595c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - painelVitoria: {instanceID: 0}
+  - painelDerrota: {instanceID: 0}
+  - player: {instanceID: 0}
+  - loadingSnapshot: {fileID: 5779254943170371941, guid: b9c357059fd9c264ab015a167181440b, type: 2}
+  - NOTloadingSnapshot: {fileID: 24500006, guid: b9c357059fd9c264ab015a167181440b, type: 2}
+  - feedbackVitoria: {instanceID: 0}
+  - feedbackMorte: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

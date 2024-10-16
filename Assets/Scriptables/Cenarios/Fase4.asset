@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5475bb562e5ae374f9c094a182697890, type: 3}
+  m_Name: Fase4
+  m_EditorClassIdentifier: 
+  Blocos:
+  - {fileID: 174725256, guid: 2256998cd8cbe484d981ee3e97ad746d, type: 3}
+  - {fileID: 174725256, guid: 3c00c5f5ac3f69948ae10085514606e6, type: 3}
+  - {fileID: 174725256, guid: 5c3b7e3d6a2fc2942b7a5a4cb3feae95, type: 3}
+  - {fileID: 174725256, guid: 2c4ca940f381ec24dab89741cadc51d4, type: 3}
+  - {fileID: 174725256, guid: f3514dd167385fc48a99829e8d605c49, type: 3}

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e4b6f597d2f24a4ba1b14d759344209, type: 3}
+  m_Name: SpawnerModelBaseStage1 1
+  m_EditorClassIdentifier: 
+  waves:
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: e37cf2f15ccf33c418ca8d913c02905a, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0.5
+    waveData: {fileID: 11400000, guid: 6f3726ade779cac4cb4a3d039b3778a9, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 3adfcc995ad42e64ba72a072a907f3ff, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 900264110e919bf42b18a19517a743bd, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: a7f0423f4257e1d4985acc409724e8f4, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 5
+    waveData: {fileID: 11400000, guid: c7d2543b23c035f40b230fb12ebe3290, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 1
+    waveData: {fileID: 11400000, guid: c7d2543b23c035f40b230fb12ebe3290, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 2
+    waveData: {fileID: 11400000, guid: 4c9a32c5029f2b24a817b0e203c7652e, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: b3129d2f7613f904c9457b8b860e807c, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 3
+    waveData: {fileID: 11400000, guid: c7d2543b23c035f40b230fb12ebe3290, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 1
+    waveData: {fileID: 11400000, guid: 6f3726ade779cac4cb4a3d039b3778a9, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 2f7cd8d345cc53f4498427130cb66eaf, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 3
+    waveData: {fileID: 11400000, guid: 7b51680119464624997c9117166b7e0e, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 1
+    waveData: {fileID: 11400000, guid: 32cde418cd008864190d02d4ac3d3cfc, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: 920e4bcc5ae076a4d95dbd13240b7b5f, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 2
+    waveData: {fileID: 11400000, guid: f9c93b128fb1d12478abb4eda4737437, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: df06c4c7ebf86854f80196f7829b1b2d, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 8
+    waveData: {fileID: 11400000, guid: c7d2543b23c035f40b230fb12ebe3290, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 3
+    waveData: {fileID: 11400000, guid: c7d2543b23c035f40b230fb12ebe3290, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 3
+    waveData: {fileID: 11400000, guid: 3adfcc995ad42e64ba72a072a907f3ff, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: faa4e3e1dd3677a48ae713eebb4156a6, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 6
+    waveData: {fileID: 11400000, guid: 6f3726ade779cac4cb4a3d039b3778a9, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: c7d2543b23c035f40b230fb12ebe3290, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: b3129d2f7613f904c9457b8b860e807c, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 6
+    waveData: {fileID: 11400000, guid: 6f3726ade779cac4cb4a3d039b3778a9, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 0
+    waveData: {fileID: 11400000, guid: c7d2543b23c035f40b230fb12ebe3290, type: 2}
+    waveStruct:
+      dadosInimigos: []
+  - Delay: 5
+    waveData: {fileID: 0}
+    waveStruct:
+      dadosInimigos:
+      - Prefab: {fileID: 479232635640054356, guid: eb49dd636e98d5a4399824f402249579, type: 3}
+        _Prefab: {fileID: 2332790623761575887, guid: eb49dd636e98d5a4399824f402249579, type: 3}
+        path: 1
+        Delay: 0

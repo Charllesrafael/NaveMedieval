@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e4b6f597d2f24a4ba1b14d759344209, type: 3}
+  m_Name: SpawnerModelBase_Snipers
+  m_EditorClassIdentifier: 
+  waves:
+  - Delay: 0
+    waveStruct:
+      dadosInimigos:
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 8
+        Delay: 0
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 9
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 8
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 9
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 8
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 9
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 8
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 9
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 8
+        Delay: 1
+      - Prefab: {fileID: 7369681894318195695, guid: 65a5003a0c13bb845884f5e4c5033ad0, type: 3}
+        path: 9
+        Delay: 1

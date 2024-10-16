@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9938172d9657736438385fc81e60ddc6, type: 3}
+  m_Name: TankEnemies 1
+  m_EditorClassIdentifier: 
+  dadosInimigos:
+  - Prefab: {fileID: 726987512409721613, guid: 8d3d5d7e2508729489abf2d2cb71b74f, type: 3}
+    _Prefab: {fileID: 1537170881967582644, guid: 8d3d5d7e2508729489abf2d2cb71b74f, type: 3}
+    path: 1
+    Delay: 0
+  - Prefab: {fileID: 3701088976315655337, guid: 44d403e728af59241acba4cf374520b2, type: 3}
+    _Prefab: {fileID: 3179276763599159824, guid: 44d403e728af59241acba4cf374520b2, type: 3}
+    path: 1
+    Delay: 2

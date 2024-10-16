@@ -1,0 +1,1849 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8829079240303024703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot6_agua
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot6_agua
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -31.3
+    MaxValue: -31.3
+  Pitch:
+    MinValue: 1.4
+    MaxValue: 1.4
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: f613ae0b287225049a461db39b56bbe7, type: 3}
+    Weight: 1
+--- !u!114 &-8179748638080514294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot15_agua_idle
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot15_agua_idle
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -25.2
+    MaxValue: -25.2
+  Pitch:
+    MinValue: 8.6
+    MaxValue: 8.6
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 876de5cd6048ecd4284bdc69dc61deef, type: 3}
+    Weight: 1
+--- !u!114 &-8159891776515978016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot2_fogo
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot2_fogo
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -20.5
+    MaxValue: -17
+  Pitch:
+    MinValue: -10.1
+    MaxValue: -7.8
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 5898ec557d179904a8c43e2e685d6341, type: 3}
+    Weight: 1
+  - AudioClip: {fileID: 8300000, guid: c60e61d08d32bc74586d1d13322653fd, type: 3}
+    Weight: 1
+--- !u!114 &-7236329032979342278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot9_vento
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot9_vento
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -13.6
+    MaxValue: -11.3
+  Pitch:
+    MinValue: -6.6
+    MaxValue: -5.2
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8fc9647de07fc464189770432a1c05a4, type: 3}
+    Weight: 1
+--- !u!114 &-7226997993054296414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Enemy_Shot_3_explosivo
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Enemy_Shot_3_explosivo
+  IgnoreListenerPause: 0
+  Priority: 256
+  Volume:
+    MinValue: -0
+    MaxValue: -0
+  Pitch:
+    MinValue: 15.9
+    MaxValue: 24
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 4a26ff814ab42914bbdb8a491195b9ae, type: 3}
+    Weight: 1
+--- !u!114 &-7061612206597884485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Error
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Error
+  IgnoreListenerPause: 1
+  Priority: 117
+  Volume:
+    MinValue: -1.6
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: f8af11a7342938d44a1afe9e07f36ec2, type: 3}
+    Weight: 1
+--- !u!114 &-6365131462827217750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot8_vento
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot8_vento
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -13.6
+    MaxValue: -11.3
+  Pitch:
+    MinValue: -5.2
+    MaxValue: -3.8
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8fc9647de07fc464189770432a1c05a4, type: 3}
+    Weight: 1
+--- !u!114 &-6024059396191640242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot1_fogo
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot1_fogo
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -17
+    MaxValue: -17
+  Pitch:
+    MinValue: -7.8
+    MaxValue: -6.7
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: c60e61d08d32bc74586d1d13322653fd, type: 3}
+    Weight: 1
+  - AudioClip: {fileID: 8300000, guid: 5898ec557d179904a8c43e2e685d6341, type: 3}
+    Weight: 1
+--- !u!114 &-5897004434517246177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Drone_Charging
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Drone_Charging
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: b5552ee813b6a4a4bb99467f03e221f5, type: 3}
+    Weight: 1
+--- !u!114 &-5150553532296458348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot14_agua_idle
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot14_agua_idle
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -25.2
+    MaxValue: -25.2
+  Pitch:
+    MinValue: 12.9
+    MaxValue: 12.9
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 876de5cd6048ecd4284bdc69dc61deef, type: 3}
+    Weight: 1
+--- !u!114 &-5121310026675656297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: drone_charging_2s
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: drone_charging_2s
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: b209b1948c6dd3647b5f788bcabc401e, type: 3}
+    Weight: 1
+--- !u!114 &-4973726408105166736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: protecao_terra_drone_terra (1)
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: protecao_terra_drone_terra (1)
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -9.5
+    MaxValue: -9.5
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 1e4a6f5b268ddcc48925b77421cab5c7, type: 3}
+    Weight: 1
+--- !u!114 &-4280822158967644371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: No Sound
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: No Sound
+  IgnoreListenerPause: 1
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds: []
+--- !u!114 &-3997074798099471633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Boss_1_Intimidation
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Boss_1_Intimidation
+  IgnoreListenerPause: 0
+  Priority: 5
+  Volume:
+    MinValue: -5.3
+    MaxValue: -5
+  Pitch:
+    MinValue: 0
+    MaxValue: 1.2
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: a82b5c7013f06f942b0a9f1baa023e00, type: 3}
+    Weight: 1
+--- !u!114 &-3365405743040076435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Mouse_Click
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Mouse_Click
+  IgnoreListenerPause: 1
+  Priority: 0
+  Volume:
+    MinValue: -13.8
+    MaxValue: -13.8
+  Pitch:
+    MinValue: -1
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 801a894d272f24eb5ad28f5219e62bfe, type: 3}
+    Weight: 1
+--- !u!114 &-2682644562913338587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Drone_Extra_Cannons
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Drone_Extra_Cannons
+  IgnoreListenerPause: 1
+  Priority: 128
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8fc9647de07fc464189770432a1c05a4, type: 3}
+    Weight: 1
+--- !u!114 &-2153237294092417752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Enemy_Explosion
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Enemy_Explosion
+  IgnoreListenerPause: 1
+  Priority: 169
+  Volume:
+    MinValue: -19.3
+    MaxValue: -15.5
+  Pitch:
+    MinValue: 6.2
+    MaxValue: 9.3
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 12551bf8c90de304aabdd9503803a0d7, type: 3}
+    Weight: 1
+--- !u!114 &-1896702355754107319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Digitacao
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Digitacao
+  IgnoreListenerPause: 1
+  Priority: 128
+  Volume:
+    MinValue: -25.1
+    MaxValue: -20.8
+  Pitch:
+    MinValue: -5.7
+    MaxValue: -2.2
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 672c038d4a43ede4f9e32e728d2980d8, type: 3}
+    Weight: 1
+  - AudioClip: {fileID: 8300000, guid: 0f7b1524843d6074d8cba9af09a0c1c0, type: 3}
+    Weight: 1
+--- !u!114 &-1479631457246029415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Lose
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Lose
+  IgnoreListenerPause: 1
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: d5ba7fc0ff1dff649b3d1365a5ef812a, type: 3}
+    Weight: 1
+--- !u!114 &-1359088174739125216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot12_terra
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot12_terra
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -18.9
+    MaxValue: -17
+  Pitch:
+    MinValue: -11.5
+    MaxValue: -8.2
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 2c8e1a91fc097a044a6575567f032e8e, type: 3}
+    Weight: 1
+--- !u!114 &-1178142090597784165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Player_Explosion
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Player_Explosion
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 7737795b347a02c4ca10142b146aaf0d, type: 3}
+    Weight: 1
+--- !u!114 &-864763419644163783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Boss_5_Intimidation
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Boss_5_Intimidation
+  IgnoreListenerPause: 0
+  Priority: 5
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: c4be849180c75824ab216963d67244ca, type: 3}
+    Weight: 1
+--- !u!114 &-417128209094971892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot4_agua
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot4_agua
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -31.3
+    MaxValue: -31.3
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: f613ae0b287225049a461db39b56bbe7, type: 3}
+    Weight: 1
+--- !u!114 &-407152029796189907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Boss_3_Intimidation
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Boss_3_Intimidation
+  IgnoreListenerPause: 0
+  Priority: 5
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 81b385cc93d9cad449232dd4036432c4, type: 3}
+    Weight: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b400ee936d64d0e93e3892c7c321e09, type: 3}
+  m_Name: SoundDatabase_Our_SFX
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  OutputAudioMixerGroup: {fileID: 1678765525683352079, guid: b9c357059fd9c264ab015a167181440b, type: 2}
+  SoundNames:
+  - No Sound
+  - Alert_Buzzer
+  - Boss_1_Intimidation
+  - Boss_2_Intimidation
+  - Boss_3_Intimidation
+  - Boss_4_Intimidation
+  - Boss_5_Intimidation
+  - BounceBubble
+  - ContinueConfirmacao
+  - ContinueContagem
+  - Digitacao
+  - Drone_Black_Spear
+  - Drone_Charging
+  - drone_charging_2s
+  - Drone_Death
+  - Drone_Dois_Lazer
+  - Drone_Explosion_Shots
+  - Drone_Extra_Cannons
+  - Enemy_Explosion
+  - Enemy_Shot_1_normal
+  - Enemy_Shot_2_perseguidor
+  - Enemy_Shot_3_explosivo
+  - Enemy_Shot_4_missel
+  - Error
+  - Get_Upgrade
+  - hit_nave
+  - lazer_agua_3s
+  - lazer_agua_5s
+  - Lose
+  - Metal_Drill
+  - Mouse_Click
+  - Mouse_Enter
+  - No Sound
+  - Player_Explosion
+  - protecao_terra_drone_terra
+  - protecao_terra_drone_terra (1)
+  - protecao_terra_drone_terra_deactivate
+  - Selecao_Anterior
+  - Selecao_Proximo
+  - Shot1_fogo
+  - Shot10_terra
+  - Shot11_terra
+  - Shot12_terra
+  - Shot13_agua_idle
+  - Shot14_agua_idle
+  - Shot15_agua_idle
+  - Shot2_fogo
+  - Shot3_fogo
+  - Shot4_agua
+  - Shot5_agua
+  - Shot6_agua
+  - Shot7_vento
+  - Shot8_vento
+  - Shot9_vento
+  - Vacuum_Space_BGS
+  - Win
+  - Wind_Effect
+  - WindEffect
+  Database:
+  - {fileID: -4280822158967644371}
+  - {fileID: 1810211590026925170}
+  - {fileID: -3997074798099471633}
+  - {fileID: 7266697264007328366}
+  - {fileID: -407152029796189907}
+  - {fileID: 5342053362942208229}
+  - {fileID: -864763419644163783}
+  - {fileID: 439020842448783524}
+  - {fileID: 6506606014179361213}
+  - {fileID: 4541029563119064681}
+  - {fileID: -1896702355754107319}
+  - {fileID: 1399481179324759078}
+  - {fileID: -5897004434517246177}
+  - {fileID: -5121310026675656297}
+  - {fileID: 1522869305111323426}
+  - {fileID: 8598482394947930818}
+  - {fileID: 5547011973933264248}
+  - {fileID: -2682644562913338587}
+  - {fileID: -2153237294092417752}
+  - {fileID: 9168295197124587763}
+  - {fileID: 2235123855854572510}
+  - {fileID: -7226997993054296414}
+  - {fileID: 6345588801181787352}
+  - {fileID: -7061612206597884485}
+  - {fileID: 356131908150717126}
+  - {fileID: 8369962012916421669}
+  - {fileID: 2328954951905441145}
+  - {fileID: 1758650687478567157}
+  - {fileID: -1479631457246029415}
+  - {fileID: 3010374270166270656}
+  - {fileID: -3365405743040076435}
+  - {fileID: 2519867609903933067}
+  - {fileID: -1178142090597784165}
+  - {fileID: 7707865858221127028}
+  - {fileID: -4973726408105166736}
+  - {fileID: 932932073753096991}
+  - {fileID: 2665846201101526040}
+  - {fileID: 523004608968884532}
+  - {fileID: -6024059396191640242}
+  - {fileID: 427513871634122246}
+  - {fileID: 5647685346861413522}
+  - {fileID: -1359088174739125216}
+  - {fileID: 3041630610508895303}
+  - {fileID: -5150553532296458348}
+  - {fileID: -8179748638080514294}
+  - {fileID: -8159891776515978016}
+  - {fileID: 6590713670562828337}
+  - {fileID: -417128209094971892}
+  - {fileID: 6908159449649086004}
+  - {fileID: -8829079240303024703}
+  - {fileID: 4922436963931086292}
+  - {fileID: -6365131462827217750}
+  - {fileID: -7236329032979342278}
+  - {fileID: 6718742364342650322}
+  - {fileID: 9002828552813369673}
+  - {fileID: 5038545473382400762}
+  - {fileID: 7755668171495538137}
+--- !u!114 &356131908150717126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Get_Upgrade
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Get_Upgrade
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -8.4
+    MaxValue: -6.6
+  Pitch:
+    MinValue: 0
+    MaxValue: 2.1
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 54a8353e29902c842bb5246ffc41435c, type: 3}
+    Weight: 1
+--- !u!114 &427513871634122246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot10_terra
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot10_terra
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -18.9
+    MaxValue: -17
+  Pitch:
+    MinValue: -10.4
+    MaxValue: -7.1
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 2c8e1a91fc097a044a6575567f032e8e, type: 3}
+    Weight: 1
+--- !u!114 &439020842448783524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: BounceBubble
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: BounceBubble
+  IgnoreListenerPause: 1
+  Priority: 181
+  Volume:
+    MinValue: -23.7
+    MaxValue: -21
+  Pitch:
+    MinValue: -11.8
+    MaxValue: -6.6
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: f6efbf8b7cfecc54fa9bcf04b37b9d95, type: 3}
+    Weight: 1
+--- !u!114 &523004608968884532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Selecao_Proximo
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Selecao_Proximo
+  IgnoreListenerPause: 1
+  Priority: 0
+  Volume:
+    MinValue: -12.4
+    MaxValue: -12.4
+  Pitch:
+    MinValue: 0
+    MaxValue: 0.7
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 3e0617184f0f275469dc82e6f2c7679c, type: 3}
+    Weight: 1
+--- !u!114 &932932073753096991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: protecao_terra_drone_terra_deactivate
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: protecao_terra_drone_terra_deactivate
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -9.5
+    MaxValue: -9.5
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 46914dd7465ad4e4baf46063e802162b, type: 3}
+    Weight: 1
+--- !u!114 &1399481179324759078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Drone_Black_Spear
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Drone_Black_Spear
+  IgnoreListenerPause: 1
+  Priority: 128
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8fc9647de07fc464189770432a1c05a4, type: 3}
+    Weight: 1
+--- !u!114 &1522869305111323426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Drone_Death
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Drone_Death
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -27
+    MaxValue: -27
+  Pitch:
+    MinValue: -8.2
+    MaxValue: -2
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 3d3d3138e38839247ba14b44078f3d11, type: 3}
+    Weight: 1
+--- !u!114 &1758650687478567157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: lazer_agua_5s
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: lazer_agua_5s
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 7517408564eb58748bf7ca6b1df47875, type: 3}
+    Weight: 1
+--- !u!114 &1810211590026925170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Alert_Buzzer
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Alert_Buzzer
+  IgnoreListenerPause: 0
+  Priority: 1
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: a9423c8b3374ad242b770d483d069fda, type: 3}
+    Weight: 1
+--- !u!114 &2235123855854572510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Enemy_Shot_2_perseguidor
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Enemy_Shot_2_perseguidor
+  IgnoreListenerPause: 0
+  Priority: 256
+  Volume:
+    MinValue: -0
+    MaxValue: -0
+  Pitch:
+    MinValue: 4.2
+    MaxValue: 10.5
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 4a26ff814ab42914bbdb8a491195b9ae, type: 3}
+    Weight: 1
+--- !u!114 &2328954951905441145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: lazer_agua_3s
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: lazer_agua_3s
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: d118770427f1eb741bbc38e51f4f479d, type: 3}
+    Weight: 1
+--- !u!114 &2519867609903933067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Mouse_Enter
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Mouse_Enter
+  IgnoreListenerPause: 1
+  Priority: 0
+  Volume:
+    MinValue: -8.9
+    MaxValue: -8.9
+  Pitch:
+    MinValue: -1.3
+    MaxValue: -0.3
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 292aad821b16948af9cba9deaca16525, type: 3}
+    Weight: 1
+--- !u!114 &2665846201101526040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Selecao_Anterior
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Selecao_Anterior
+  IgnoreListenerPause: 1
+  Priority: 0
+  Volume:
+    MinValue: -12.4
+    MaxValue: -12.4
+  Pitch:
+    MinValue: 0
+    MaxValue: 0.5
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 4eaef6ac7bf30b14e87f6a416173aa23, type: 3}
+    Weight: 1
+--- !u!114 &3010374270166270656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Metal_Drill
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Metal_Drill
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -51.5
+    MaxValue: -51.5
+  Pitch:
+    MinValue: -0.6
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: cad87fc6e26e6124084c291751a059a2, type: 3}
+    Weight: 1
+--- !u!114 &3041630610508895303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot13_agua_idle
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot13_agua_idle
+  IgnoreListenerPause: 0
+  Priority: 14
+  Volume:
+    MinValue: -25.2
+    MaxValue: -25.2
+  Pitch:
+    MinValue: 15.1
+    MaxValue: 15.1
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 876de5cd6048ecd4284bdc69dc61deef, type: 3}
+    Weight: 1
+--- !u!114 &4541029563119064681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: ContinueContagem
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: ContinueContagem
+  IgnoreListenerPause: 1
+  Priority: 93
+  Volume:
+    MinValue: -12.8
+    MaxValue: -7.6
+  Pitch:
+    MinValue: -15.3
+    MaxValue: -14
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: adb24518d159048ca9cb62d63113784f, type: 3}
+    Weight: 1
+--- !u!114 &4922436963931086292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot7_vento
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot7_vento
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -13.6
+    MaxValue: -11.3
+  Pitch:
+    MinValue: -3.2
+    MaxValue: -1.8
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8fc9647de07fc464189770432a1c05a4, type: 3}
+    Weight: 1
+--- !u!114 &5038545473382400762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Wind_Effect
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Wind_Effect
+  IgnoreListenerPause: 0
+  Priority: 1
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: -2.3
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8aa10a8a09a3f8b4992455ca55b26412, type: 3}
+    Weight: 1
+--- !u!114 &5342053362942208229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Boss_4_Intimidation
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Boss_4_Intimidation
+  IgnoreListenerPause: 0
+  Priority: 5
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 5fe26542c34695c4b85746a2e207f9c2, type: 3}
+    Weight: 1
+--- !u!114 &5547011973933264248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Drone_Explosion_Shots
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Drone_Explosion_Shots
+  IgnoreListenerPause: 1
+  Priority: 128
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8fc9647de07fc464189770432a1c05a4, type: 3}
+    Weight: 1
+--- !u!114 &5647685346861413522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot11_terra
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot11_terra
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -18.9
+    MaxValue: -17
+  Pitch:
+    MinValue: -10.7
+    MaxValue: -7.4
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 2c8e1a91fc097a044a6575567f032e8e, type: 3}
+    Weight: 1
+--- !u!114 &6345588801181787352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Enemy_Shot_4_missel
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Enemy_Shot_4_missel
+  IgnoreListenerPause: 0
+  Priority: 256
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 15.9
+    MaxValue: 24
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 4a26ff814ab42914bbdb8a491195b9ae, type: 3}
+    Weight: 1
+--- !u!114 &6506606014179361213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: ContinueConfirmacao
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: ContinueConfirmacao
+  IgnoreListenerPause: 1
+  Priority: 121
+  Volume:
+    MinValue: -21
+    MaxValue: -19.5
+  Pitch:
+    MinValue: -11.2
+    MaxValue: -11.2
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: ccdc1026f90774226b4c0759093380b3, type: 3}
+    Weight: 1
+--- !u!114 &6590713670562828337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot3_fogo
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot3_fogo
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -17
+    MaxValue: -17
+  Pitch:
+    MinValue: -10.9
+    MaxValue: -6.3
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: c60e61d08d32bc74586d1d13322653fd, type: 3}
+    Weight: 1
+  - AudioClip: {fileID: 8300000, guid: 5898ec557d179904a8c43e2e685d6341, type: 3}
+    Weight: 1
+--- !u!114 &6718742364342650322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Vacuum_Space_BGS
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Vacuum_Space_BGS
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -16.2
+    MaxValue: -16.2
+  Pitch:
+    MinValue: -1.1
+    MaxValue: -1.1
+  SpatialBlend: 0
+  Loop: 1
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 2ba657cb9b9bb3d458f842267dc4a744, type: 3}
+    Weight: 1
+--- !u!114 &6908159449649086004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Shot5_agua
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Shot5_agua
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -31.3
+    MaxValue: -31.3
+  Pitch:
+    MinValue: 0.8
+    MaxValue: 0.8
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: f613ae0b287225049a461db39b56bbe7, type: 3}
+    Weight: 1
+--- !u!114 &7266697264007328366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Boss_2_Intimidation
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Boss_2_Intimidation
+  IgnoreListenerPause: 0
+  Priority: 5
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: cda9a09c7d9d35a438a89bf874a4574a, type: 3}
+    Weight: 1
+--- !u!114 &7707865858221127028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: protecao_terra_drone_terra
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: protecao_terra_drone_terra
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -7.7
+    MaxValue: -7.7
+  Pitch:
+    MinValue: 7.1
+    MaxValue: 7.1
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 1e4a6f5b268ddcc48925b77421cab5c7, type: 3}
+    Weight: 1
+--- !u!114 &7755668171495538137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: WindEffect
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: WindEffect
+  IgnoreListenerPause: 0
+  Priority: 1
+  Volume:
+    MinValue: -20.7
+    MaxValue: -20.7
+  Pitch:
+    MinValue: 1
+    MaxValue: 1
+  SpatialBlend: 0
+  Loop: 1
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: ba9c4898c47b41b47b9700278da164ea, type: 3}
+    Weight: 1
+--- !u!114 &8369962012916421669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: hit_nave
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: hit_nave
+  IgnoreListenerPause: 0
+  Priority: 0
+  Volume:
+    MinValue: -6.3
+    MaxValue: -6.3
+  Pitch:
+    MinValue: 5.1
+    MaxValue: 6
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: d1f44421308060945a677101cd3dee73, type: 3}
+    Weight: 1
+--- !u!114 &8598482394947930818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Drone_Dois_Lazer
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Drone_Dois_Lazer
+  IgnoreListenerPause: 1
+  Priority: 128
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 8fc9647de07fc464189770432a1c05a4, type: 3}
+    Weight: 1
+--- !u!114 &9002828552813369673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Win
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Win
+  IgnoreListenerPause: 1
+  Priority: 0
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: 0
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 30910708d659f2745a12def47237819f, type: 3}
+    Weight: 1
+--- !u!114 &9168295197124587763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6c631d933489d4ca7328a2a5983e10, type: 3}
+  m_Name: Enemy_Shot_1_normal
+  m_EditorClassIdentifier: 
+  DatabaseName: Our_SFX
+  SoundName: Enemy_Shot_1_normal
+  IgnoreListenerPause: 0
+  Priority: 256
+  Volume:
+    MinValue: 0
+    MaxValue: 0
+  Pitch:
+    MinValue: -2.8
+    MaxValue: 0
+  SpatialBlend: 0
+  Loop: 0
+  Mode: 0
+  ResetSequenceAfterInactiveTime: 0
+  SequenceResetTime: 5
+  Sounds:
+  - AudioClip: {fileID: 8300000, guid: 4a26ff814ab42914bbdb8a491195b9ae, type: 3}
+    Weight: 1
